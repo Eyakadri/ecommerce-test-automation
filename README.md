@@ -73,6 +73,4 @@ pytest --html=reports/report.html --self-contained-html
 
 ## Notes
 
-- Screenshots for failed tests are stored in the screenshots folder.
-- HTML reports are generated in the reports folder.
 - The project is suitable for local execution and CI usage.
